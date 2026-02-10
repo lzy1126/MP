@@ -1,4 +1,4 @@
-# MP# MP
+# MP
 ## Related Paper
 
 This repository contains the official PyTorch implementation for the paper:
